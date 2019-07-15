@@ -11,7 +11,7 @@ Requirements :
 
 1.  Python (preferably 3.5 or greater than that )
 2.  geckodriver.exe , which can be downloaded from https://github.com/mozilla/geckodriver/releases . Note that this exe file has to be placed in the PATH 
-3.Firefox Browser.
+3.  Firefox Browser.
 
 Libraries to be included :
     Selenium
