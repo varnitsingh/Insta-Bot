@@ -73,7 +73,7 @@ hashtags = ['basketball', 'football', 'writers', 'photography', 'nofilter',
                 'newyork', 'art', 'alumni', 'lion', 'best', 'fun', 'happy',
                 'art', 'funny', 'me', 'followme', 'follow', 'boring', 'cinema',
                 'love', 'instagood', 'insta', 'followme', 'fashion', 'sun', 'holy',
-                'street', 'canon', 'meme', 'funny', 'pretty', 'vintage', 'fierce']
+                'street', 'canon', 'meme', 'funny', 'pretty', 'vintage', 'fierce', 'porn','pornography']
 
 
 hashtag = random.choice(hashtags)
